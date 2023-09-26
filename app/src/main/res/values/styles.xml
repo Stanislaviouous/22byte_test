@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="main_text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="play_text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="play_button" parent="ThemeOverlay.AppCompat">
+        <item name="android:background">@drawable/back_rectangle</item>
+    </style>
+
+    <style name="timer_text">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="capital_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="answer_edittext" parent="ThemeOverlay.AppCompat">
+        <item name="android:background">@drawable/back_answer_edit</item>
+        <item name="android:textSize">20sp</item>
+        r<item name="android:textColor">#DCDCDC</item>
+        <item name="android:textColorHint">#DCDCDC</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+</resources>

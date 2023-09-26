@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="main_text">match the time zone with the city</string>
+    <string name="button_play_text">PLAY</string>
+    <string name="button_casual">Casual</string>
+    <string name="button_play_to_time">Play for Time</string>
+    <string name="timer_text">00:00</string>
+    <string name="capital_text">London</string>
+    <string name="edittext_text">WRITE ANSWER</string>
+    <string name="button_answer_text">OK</string>
+    <string name="button_restart_text">RESTART</string>
+    <string name="button_memory">СOMPLETE</string>
+    <string name="restart_text_1">Congratulation!</string>
+    <string name="restart_text_2">You finished the game!</string>
+    <string name="restart_text_3">You total score is </string>
+    <string name="restart_text_4">1000 </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
